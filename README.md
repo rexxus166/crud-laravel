@@ -1,10 +1,10 @@
 # Simple Laravel 11 CRUD Application Tutorial
 Learn how to develop a simple Laravel 11 CRUD application
 
-> The complete tutorial step by step guide is available on my blog. [Laravel 11 CRUD Application](https://www.allphptricks.com/simple-laravel-11-crud-application-tutorial/)
+> The complete tutorial step by step guide is available on my blog.
 
-## Blog
-https://www.allphptricks.com/
+## Website
+https://www.imyu.biz.id
 
 
 ## Installation 
